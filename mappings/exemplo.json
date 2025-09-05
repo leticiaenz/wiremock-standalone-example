@@ -1,0 +1,10 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/api/funcao"
+    },
+    "response": {
+        "status": 200,
+        "body": "Você achou a api mockada funcao, parabéns\n"
+    }
+}

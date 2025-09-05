@@ -1,0 +1,16 @@
+{
+    "request": {
+        "method": "POST",
+        "url": "/api/FIApiAutSimularProposta/oauth/token"
+    },
+    "response": {
+        "status": 200,
+        "jsonBody": {
+            "access_token": "fake-jwt-token-1234",
+            "token_type": "Bearer"
+        },
+        "headers": {
+            "Content-Type": "application/json"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "request": {
+        "method": "POST",
+        "url": "/api/SolicitarAutorizacao/SolicitarAutorizacaoSimplificada"
+    },
+    "response": {
+        "status": 200,
+        "jsonBody": {
+            "cpf": "54812483018",
+            "name": "Autorizacao Super App",
+            "hasSignatureRofo": false,
+            "AuthorizationChannel": "Mobile",
+            "date": "2025-09-05T12:00:00Z",
+            "AuthorizationDate": "2025-09-05T12:15:00Z"
+        },
+        "headers": {
+            "Content-Type": "application/json"
+        }
+    }
+}
